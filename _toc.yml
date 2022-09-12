@@ -1,0 +1,6 @@
+format: jb-book
+root: overview
+parts:
+- caption: Introduction
+  chapters:
+    - file: README
