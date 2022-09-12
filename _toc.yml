@@ -1,6 +1,6 @@
 format: jb-book
-root: overview
+root: README
 parts:
-- caption: Introduction
+- caption: Notebooks
   chapters:
-    - file: README.md
+    - glob: Notebooks/*
