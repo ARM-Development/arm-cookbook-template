@@ -3,4 +3,4 @@ root: overview
 parts:
 - caption: Introduction
   chapters:
-    - file: README
+    - file: README.md
