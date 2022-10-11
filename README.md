@@ -1,5 +1,3 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
-
 # (Replace_with_your_title) Cookbook
 
 [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ARM-Development/arm-cookbook-template/main?labpath=notebooks)
