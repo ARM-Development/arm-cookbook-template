@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# Open Science in the Rockies AMS Short Course
 
 [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ARM-Development/arm-cookbook-template/main?labpath=notebooks)
 
